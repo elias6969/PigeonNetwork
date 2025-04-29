@@ -128,3 +128,4 @@
 /home/lighht19/Documents/SchoolTask/Pigeon-Network/PigeonPostApi/obj/Debug/net9.0/PigeonPostApi.pdb
 /home/lighht19/Documents/SchoolTask/Pigeon-Network/PigeonPostApi/obj/Debug/net9.0/PigeonPostApi.genruntimeconfig.cache
 /home/lighht19/Documents/SchoolTask/Pigeon-Network/PigeonPostApi/obj/Debug/net9.0/ref/PigeonPostApi.dll
+/home/lighht19/Documents/SchoolTask/Pigeon-Network/PigeonPostApi/obj/Debug/net9.0/PigeonPostApi.sourcelink.json
